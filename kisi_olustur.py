@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 18 16:37:56 2020
 
-@author: onur.eskili-ug
+@author: onur@bilalonureskili.com
 """
 import random
 
