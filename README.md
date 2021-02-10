@@ -1,11 +1,11 @@
-# Rastgele İsim Oluşturucu
-Erkek ve Kadın olmak üzere iki ayrı cinsiyette rastgele isim(ler) üretir.
+# Random Turkish Name Generator in Python
+It creates both male and female name(s) randomly.
 
-# Kullanım
-> kisi_olustur.py ile ekrana gelen yönergeleri takip edebilirsiniz.
-> e_ad.txt , k_ad.txt , soyad.txt dosyalarının içeriğini düzenleyerek rastgele seçilecek isim ve soyisimleri güncelleyebilirsiniz.
+# Usage
+> You can use the instructions that showed with starting of kisi_olustur.py 
+> e_ad.txt , k_ad.txt , soyad.txt are the files that include male/female names and surnames in Turkish. 
 
-# Özellikler
-- Erkek ve Kadın isim oluşturma
-- Geniş veriseti
-- 1 ya da 2 isim üretebilir.
+# Specifications
+- Creating male and female names & surnames in Turkish
+- A wide variety names
+- It can create 1 or 2 names, it is random as well.
