@@ -2,7 +2,7 @@
 It creates both male and female name(s) randomly.
 
 # Usage
-> You can use the instructions that showed with starting of kisi_olustur.py 
+> You can use the instructions that showed with starting of kisi_olustur.py  <br/>
 > e_ad.txt , k_ad.txt , soyad.txt are the files that include male/female names and surnames in Turkish. 
 
 # Specifications
